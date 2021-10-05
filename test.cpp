@@ -4,5 +4,5 @@ using namespace std;
 int main(){
     int a,b;
     cin>>a>>b;
-    cout<<(a+b)<<endl;
+    cout<<"sum of a and b"<<(a+b)<<endl;
 }
